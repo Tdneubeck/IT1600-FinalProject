@@ -4,4 +4,4 @@ Sound is the vibrations of particles as they pass through a substance. This subs
 
 ![soundwave](https://static.sciencelearn.org.nz/images/images/000/000/605/original/Graphs-of-sound-waves20151209_v2.jpg?1674164598)
 
-[next](DigitalAudio_Overview.md)
+[next](DigitalAudio_overview.md)
