@@ -8,4 +8,4 @@ I want to break down Digital audio in a way that young learners would be able to
 
 ### Pages
 - [Sound](sound.md)
-- [Digital Audio](DigitalAudio_overview)
+- [Digital Audio](DigitalAudio_overview.md)
