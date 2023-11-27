@@ -1,1 +1,5 @@
+# Sound and Audio: What is it?
+### Sound 
+Sound is the vibrations of particles as they pass through a substance. This substance is most often air but can be any gas, liquid (like water), or solid (like a door). Each different type of substance vibrates differently which causes the sound to be different. Sound travels in the form of waves and each wave has dimensions that are specific to the sound. the height of the wave is called the amplitude and the amplitude controls the intensity of the sound. Another dimension of the sound wave is called the frequency. the frequency measures how close the waves are next to each other and this determines the pitch of the sound. Much like how sound is heard through the ears and transmitted to the brain for processing, a computer can hear sound through a microphone and transmit it to the soundboard for processing and use in Digital audio.  
 
+![soundwave](https://static.sciencelearn.org.nz/images/images/000/000/605/original/Graphs-of-sound-waves20151209_v2.jpg?1674164598)
