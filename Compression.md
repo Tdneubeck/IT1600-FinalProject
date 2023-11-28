@@ -14,3 +14,5 @@ This formula is the reason for the large difference in file size based on freque
 There are two ways that audio files are compressed much like images. In lossy compression, the audio gets manipulated in different ways to reduce the file size. One of the most popular forms of lossy compression is an MP3 file. this compresses the file by removing the samples that are near the same value and is unable to hear the change between the samples. this reduces the size by up to 95%.
 #### Lossless
 The other form of compression is lossless compression. This focuses on keeping all of the data of the file intact while reducing the size. This is popular with audio that has to be manipulated like movies and music editing. A popular type of Lossless compression is FLAC (Free Lossless Audio Codec). FLAC uses encoded data in frames to reduce the size of the file to 50% of its original file.
+
+[Home](README.md)
