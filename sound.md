@@ -11,5 +11,5 @@ Another dimension of the sound wave is called the frequency. the frequency measu
 
 
 
-[next](DigitalAudio_overview.md)
+[Next](DigitalAudio_overview.md)
 [Home](README.md)
