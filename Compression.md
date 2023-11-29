@@ -15,4 +15,5 @@ There are two ways that audio files are compressed much like images. In lossy co
 #### Lossless
 The other form of compression is lossless compression. This focuses on keeping all of the data of the file intact while reducing the size. This is popular with audio that has to be manipulated like movies and music editing. A popular type of Lossless compression is FLAC (Free Lossless Audio Codec). FLAC uses encoded data in frames to reduce the size of the file to 50% of its original file.
 
+[Next](audiotypes.md)
 [Home](README.md)
