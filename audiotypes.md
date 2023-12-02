@@ -11,7 +11,7 @@ Windows Audio File (WAV) is the format established by Microsoft and IBM. WAV fil
 Audio interchange file format is the Apple version of WAV files. they are files created by Apple to help their system manage the files. 
 ### Lossless Compressed Files
 ##### MP3
-MPEG-1 Audio Layer 3 (MP3) is one of the most popular audio file types of our generation. MP3 compresses the audio in a way to reduces the storage space significantly while maintaining a quality sound. MP3 was used in mp3 players back in the day and most recently used for music streaming though apps like **Spotify** and **Apple Music**
+MPEG-1 Audio Layer 3 (MP3) is one of the most popular audio file types of our generation. MP3 compresses the audio in a way to reduces the storage space significantly while maintaining a quality sound. MP3 was used in mp3 players back in the day and most recently used for music streaming through apps like **Spotify** and **Apple Music**
 
 ### Lossy Compressed Files
 ##### FLAC
@@ -20,6 +20,7 @@ FLAC stands for Free Lossless Audio Codec. FLAC has become a popular lossless fo
 #### ALAC
 ALAC is the Apple alternative to FLAC. ALAC stands for Apple Lossless Audio Codec. ALAC has a bit worse compression efficiency than FLAC but Apple users are only able to use ALAC in iTunes and IOS and are unable to use FLAC. 
 
+[Back](Compression.md)
 [Home](README.md)
 
 
