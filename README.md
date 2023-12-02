@@ -11,3 +11,4 @@ I want to break down Digital audio in a way that young learners would be able to
 - [Digital Audio](DigitalAudio_overview.md)
 - [Storage and Compression](Compression.md)
 - [Types Of Digital audio](audiotypes.md)
+- [Audio File Creation and Editing](Audacity.md)
