@@ -12,4 +12,5 @@ The samples in digital audio are arranged in a wave-like form. The sample rate i
 The bit depth is the number of bits used to represent the values for each sample. If the bit depth is 16 bits then there are 65,536 possible values a single sample could be. if it has a lower bit depth, like 8 bits, it would take fewer bits to represent an entire song. However, this would also produce a lower-quality product. This is part of digital audio compression that will be talked about on the next page.
 
 [Next](Compression.md)
+[Back](sound.md)
 [Home](README.md)
