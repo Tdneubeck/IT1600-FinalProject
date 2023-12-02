@@ -4,4 +4,4 @@ There are many programs to create and manipulate digital audio files. Some are p
 
 ![audacity](https://i.pcmag.com/imagery/reviews/05r7UUqlfhfATKgQEtc1pn0-22.fit_lim.size_1050x.jpg)
 
-_Audacity_ allows a user to create digital audio and visualize the samples to be able to edit them to transform the sound. To edit the digital audio     
+_Audacity_ allows a user to create digital audio and visualize the samples to be able to edit them to transform the sound. To edit the digital audio. The user can choose certain places to cut the audio or manipulate the frequency and the amplitude. The user can also add effects to the audio like fade and reverb to enhance the sound depth.      
