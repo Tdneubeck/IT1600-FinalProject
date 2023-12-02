@@ -20,6 +20,7 @@ FLAC stands for Free Lossless Audio Codec. FLAC has become a popular lossless fo
 #### ALAC
 ALAC is the Apple alternative to FLAC. ALAC stands for Apple Lossless Audio Codec. ALAC has a bit worse compression efficiency than FLAC but Apple users are only able to use ALAC in iTunes and IOS and are unable to use FLAC. 
 
+[Next](Audacity.md)
 [Back](Compression.md)
 [Home](README.md)
 
